@@ -1,4 +1,4 @@
-![MasterHead](https://support.discord.com/hc/user_images/QsOZ-ys8JKf2He0oKlBhDg.jpeg)
+![MasterHead](https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDA2ODQ4MjgsIm5iZiI6MTc0MDY4NDUyOCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjI3VDE5Mjg0OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU1OTdiZTIwNGI0NjM0YmIzNTdhZDk5N)
 <div align="center">
 <h1 align="center">Hello 👋, I´m Santino Casado </h1>
   
@@ -10,16 +10,3 @@
 - ✏️ I’m currently doing a programming degree in the UTN university.
 - 🤔 I’m looking for jobs that don´t requires too much experience.
 - 🎮 I love videogames.
-<br>
-
-
-
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/ArisGuimera">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArisGuimera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>

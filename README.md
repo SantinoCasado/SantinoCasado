@@ -9,4 +9,6 @@
 - ⭐ Github Star ⭐.
 - ✏️ I’m currently doing a programming degree in the UTN university.
 - 🤔 I’m looking for jobs that don´t requires too much experience.
+- 🚩 I´m from Buenos Aires, Argentina.
+- 🏆 I have a B1+ english level, search me in Linkedin! Santino Casado is my profile name.
 - 🎮 I love videogames.

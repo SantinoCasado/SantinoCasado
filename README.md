@@ -11,4 +11,4 @@
 - 🚩 I´m from Buenos Aires, Argentina.
 - 🏆 I have a B1+ english level, search me in Linkedin! Santino Casado is my profile name.
 - 🎮 I love videogames.
-- 📈 knowledge levels: Python - Intermediate | Java - Intermediate.
+- 📈 Knowledge levels: Python - Intermediate | Java - Intermediate.

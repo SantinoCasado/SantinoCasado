@@ -16,9 +16,9 @@
   </p>
 </div>
 
-<h2  aling="center"> 📌 About Me  </h2>h2
-
+<h2 align="center"> 📌 About Me  </h2>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif">
+
 - 🚩 I’m from Buenos Aires, Argentina.  
 - 🏆 I have a B2+ English level — find me on LinkedIn as **Santino Casado**.  
 - 📈 Knowledge levels:

@@ -16,31 +16,20 @@
   </p>
 </div>
 
-<div style="display: flex; align-items: flex-start;">
-  <div style="flex: 1;">
-    <ul>
-      <li>🚩 I’m from Buenos Aires, Argentina.</li>
-      <li>🏆 I have a B2+ English level — find me on LinkedIn as <strong>Santino Casado</strong>.</li>
-      <li>📈 Knowledge levels:
-        <ul>
-          <li>Python – Intermediate</li>
-          <li>Java – Intermediate</li>
-          <li>MySQL – Beginner/Intermediate</li>
-          <li>Git Bash – Beginner/Intermediate</li>
-          <li>HTML5 – Beginner</li>
-          <li>CSS – Beginner</li>
-          <li>JavaScript – Beginner</li>
-        </ul>
-      </li>
-      <li>✏️ I’m currently studying Programming at UTN (Universidad Tecnológica Nacional).</li>
-      <li>🤔 I’m looking for jobs that don’t require too much <span style="display:block; margin-top:10px;">experience.</span></li>
-    </ul>
-  </div>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif">
 
-  <div style="flex: 1; text-align: center;">
-    <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" alt="Coding" width="450" style="margin-bottom: 10px;">
-    <div style="margin-top: 20px;">
-      <strong>🎮 I love videogames.</strong>
-    </div>
-  </div>
-</div>
+## 📌 About Me
+
+- 🚩 I’m from Buenos Aires, Argentina.  
+- 🏆 I have a B2+ English level — find me on LinkedIn as **Santino Casado**.  
+- 📈 Knowledge levels:
+  - Python – Intermediate  
+  - Java – Intermediate  
+  - MySQL – Beginner/Intermediate  
+  - Git Bash – Beginner/Intermediate  
+  - HTML5 – Beginner  
+  - CSS – Beginner  
+  - JavaScript – Beginner  
+- ✏️ I’m currently studying Programming at UTN (Universidad Tecnológica Nacional).  
+- 🤔 I’m looking for junior roles that don’t require much experience.  
+- 🎮 I love video games and enjoy building interactive projects.  

@@ -16,20 +16,19 @@
   </p>
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif">
-
 ## 📌 About Me
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif">
 
 - 🚩 I’m from Buenos Aires, Argentina.  
 - 🏆 I have a B2+ English level — find me on LinkedIn as **Santino Casado**.  
 - 📈 Knowledge levels:
-  - Python – Intermediate  
-  - Java – Intermediate  
-  - MySQL – Beginner/Intermediate  
-  - Git Bash – Beginner/Intermediate  
-  - HTML5 – Beginner  
-  - CSS – Beginner  
-  - JavaScript – Beginner  
+    - Python – Intermediate  
+    - Java – Intermediate  
+    - MySQL – Beginner/Intermediate  
+    - Git Bash – Beginner/Intermediate  
+    - HTML5 – Beginner  
+    - CSS – Beginner  
+    - JavaScript – Beginner  
 - ✏️ I’m currently studying Programming at UTN (Universidad Tecnológica Nacional).  
 - 🤔 I’m looking for junior roles that don’t require much experience.  
 - 🎮 I love video games and enjoy building interactive projects.  

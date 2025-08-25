@@ -23,7 +23,7 @@
 ## About me
 
 - 🚩 I´m from Buenos Aires, Argentina.
-- 🏆 I have a B2+ - C1 english level, search me in Linkedin! Santino Casado is my profile name.
+- 🏆 I have a B2+ english level, search me in Linkedin! Santino Casado is my profile name.
 - 📈 Knowledge levels: Python - Intermediate | Java - Intermediate | MySQL - Beginner/Intermediate. | Git Bash - Beginner/Intermediate | HTML5 - Beginner | CSS Beginner | JavaScript Beginner.
 - ✏️ I’m currently doing a programming degree in the UTN university.
 - 🤔 I’m looking for jobs that don´t requires too much experience.

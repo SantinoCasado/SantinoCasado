@@ -16,7 +16,7 @@
   </p>
 </div>
 
-<h2 align="center"> 📌 About Me  </h2>s
+<h2 align="center"> 📌 About Me  </h2>
 
 ### 🌍 **Personal Background**
 - 🚩 I'm from Buenos Aires, Argentina  

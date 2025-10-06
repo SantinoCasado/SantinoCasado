@@ -46,7 +46,7 @@
 <h2 align="center">🛠️ Languages & Technologies</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,mysql,git,html,css,js&theme=dark" alt="Tech Skills" />
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,mongodb,git,html,css,js&theme=dark" alt="Tech Skills" />
 </div>
 
 <div align="center">
@@ -68,12 +68,17 @@
         <br><sub>Beginner/Int.</sub>
       </td>
       <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-        <br><strong>Git</strong>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
+        <br><strong>MongoDB</strong>
         <br><sub>Beginner/Int.</sub>
       </td>
     </tr>
     <tr>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+        <br><strong>Git</strong>
+        <br><sub>Beginner/Int.</sub>
+      </td>
       <td align="center" width="100">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
         <br><strong>HTML5</strong>
@@ -89,11 +94,14 @@
         <br><strong>JavaScript</strong>
         <br><sub>Beginner</sub>
       </td>
+    </tr>
+    <tr>
       <td align="center" width="100">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48" height="48" alt="Bash" />
         <br><strong>Bash</strong>
         <br><sub>Beginner/Int.</sub>
       </td>
+      <td colspan="3"></td>
     </tr>
   </table>
 </div>

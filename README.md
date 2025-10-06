@@ -17,7 +17,6 @@
 </div>
 
 <h2 align="center"> 📌 About Me  </h2>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif">
 
 - 🚩 I'm from Buenos Aires, Argentina.  
 - 🏆 I have a B2+ English level — find me on LinkedIn as **Santino Casado**.  
@@ -80,6 +79,10 @@
   </table>
 </div>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="500" alt="Coding Animation" />
+</div>
+
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
@@ -105,6 +108,27 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SantinoCasado&repo=Casado.Santino.Final.Java.2024&theme=radical&hide_border=true" alt="Java Vehicle Management" />
   </a>
 </div>
+<div align="center">
+  <a href="https://github.com/SantinoCasado/Profile_HTML">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SantinoCasado&repo=Profile_HTML&theme=radical&hide_border=true" alt="Profile" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://github.com/SantinoCasado/UTNFRA_TP2_PingPong_WindowsForEver">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SantinoCasado&repo=UTNFRA_TP2_PingPong_WindowsForEver&theme=radical&hide_border=true" alt="Retro PingPong" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://github.com/SantinoCasado/UTNFRA_TP2_Ahorcado_WindowsForEver">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SantinoCasado&repo=UTNFRA_TP2_Ahorcado_WindowsForEver&theme=radical&hide_border=true" alt="Ahorcado - Python" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://github.com/SantinoCasado/TP_AySO_Integral_ILoveLinux">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SantinoCasado&repo=TP_AySO_Integral_ILoveLinux&theme=radical&hide_border=true" alt="VM - GitBash" />
+  </a>
+</div>
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=SantinoCasado&style=for-the-badge&color=red" alt="Profile Views" />

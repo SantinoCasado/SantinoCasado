@@ -17,6 +17,7 @@
 </div>
 
 <h2 align="center"> 📌 About Me  </h2>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif">
 
 ### 🌍 **Personal Background**
 - 🚩 I'm from Buenos Aires, Argentina  
@@ -127,9 +128,81 @@
 <h2 align="center">🔥 Featured Projects</h2>
 
 <div align="center">
-  <a href="https://github.com/SantinoCasado/Casado.Santino.Final.Java.2024">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SantinoCasado&repo=Casado.Santino.Final.Java.2024&theme=radical&hide_border=true" alt="Java Vehicle Management" />
-  </a>
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🚗 Vehicle Management System</h3>
+        <div align="center">  
+          <a href="https://github.com/SantinoCasado/Casado.Santino.Final.Java.2024" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=SantinoCasado&repo=Casado.Santino.Final.Java.2024&theme=radical&hide_border=true" alt="Java Vehicle Management"/>
+          </a>
+        </div>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+          <img src="https://img.shields.io/badge/JavaFX-FF6C37?style=for-the-badge&logo=java&logoColor=white"/>
+        </p>
+        <p align="center"><em>Complete vehicle rental management system with JavaFX GUI</em></p>
+      </td>
+      <td width="50%">
+        <h3 align="center">🐧 Linux VM Project</h3>
+        <div align="center">
+          <a href="https://github.com/SantinoCasado/TP_AySO_Integral_ILoveLinux" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=SantinoCasado&repo=TP_AySO_Integral_ILoveLinux&theme=radical&hide_border=true" alt="Linux VM"/>
+          </a>
+        </div>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+          <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+        </p>
+        <p align="center"><em>Virtual machine setup and configuration using Git Bash</em></p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🏓 Retro Ping Pong Game</h3>
+        <div align="center">
+          <a href="https://github.com/SantinoCasado/UTNFRA_TP2_PingPong_WindowsForEver" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=SantinoCasado&repo=UTNFRA_TP2_PingPong_WindowsForEver&theme=radical&hide_border=true" alt="Ping Pong Game"/>
+          </a>
+        </div>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Pygame-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+        </p>
+        <p align="center"><em>Classic retro ping pong game built with Python and Pygame</em></p>
+      </td>
+      <td width="50%">
+        <h3 align="center">🎯 Terminal Hangman Game</h3>
+        <div align="center">
+          <a href="https://github.com/SantinoCasado/UTNFRA_TP2_Ahorcado_WindowsForEver" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=SantinoCasado&repo=UTNFRA_TP2_Ahorcado_WindowsForEver&theme=radical&hide_border=true" alt="Hangman Game"/>
+          </a>
+        </div>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=windows-terminal&logoColor=white"/>
+        </p>
+        <p align="center"><em>Interactive hangman game played directly in the terminal</em></p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">👨‍💻 Interactive Profile Website</h3>
+        <div align="center">
+          <a href="https://github.com/SantinoCasado/Profile_HTML" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=SantinoCasado&repo=Profile_HTML&theme=radical&hide_border=true" alt="Profile Website"/>
+          </a>
+        </div>
+        <p align="center">
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+        </p>
+        <p align="center"><em>Personal presentation website with HTML, CSS and JavaScript</em></p>
+      </td>
+      <td></td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">

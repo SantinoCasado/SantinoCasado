@@ -19,11 +19,28 @@
 <h2 align="center"> 📌 About Me  </h2>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif">
 
-- 🚩 I'm from Buenos Aires, Argentina.  
-- 🏆 I have a B2+ English level — find me on LinkedIn as **Santino Casado**.  
-- ✏️ I'm currently studying Programming at UTN (Universidad Tecnológica Nacional).  
-- 🤔 I'm looking for junior roles that don't require much experience.  
-- 🎮 I love video games and enjoy building interactive projects.  
+### 🌍 **Personal Background**
+- 🚩 I'm from Buenos Aires, Argentina  
+- 🏆 B2+ English level — connect with me on LinkedIn as **Santino Casado**  
+- ✏️ Currently studying Programming at **UTN** (Universidad Tecnológica Nacional)  
+
+### 🎯 **Professional Goals**
+- 🤔 Actively seeking **junior developer roles** that welcome fresh talent  
+- 🚀 Open to **internships** and **entry-level positions** in software development  
+- 💼 Looking for opportunities to apply my academic knowledge in real-world projects  
+
+### 🧠 **Key Skills & Qualities**
+- ⚡ **Fast Learner** — Quickly adapt to new technologies and frameworks  
+- 🤝 **Team Player** — Strong collaboration and communication skills  
+- 🎯 **Adaptable** — Comfortable working in dynamic environments  
+- 🔍 **Problem Solver** — Enjoy tackling complex challenges with creative solutions  
+- 📚 **Self-Motivated** — Continuously learning through online courses and personal projects  
+
+### 🎮 **Personal Interests**
+- 🎮 Passionate about **video games** and interactive entertainment  
+- 🛠️ Love building **personal projects** to experiment with new technologies  
+- 🏗️ Enjoy creating **practical applications** that solve real-world problems  
+- 📖 Always exploring new programming concepts and industry trends  
 
 <br clear="both">
 

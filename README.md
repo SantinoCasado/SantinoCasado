@@ -17,7 +17,6 @@
 </div>
 
 <h2 align="center"> 📌 About Me  </h2>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif">
 
 ### 🌍 **Personal Background**
 - 🚩 I'm from Buenos Aires, Argentina  

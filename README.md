@@ -226,7 +226,7 @@
           <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
           <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
         </p>
-        <p align="center"><em>Personal presentation website with HTML, CSS and JavaScript</em></p>
+        <p align="center"><em>Full stack proyect, developed by me and Thiago Patricio Fernanzed Lado</em></p>
       </td>
     </tr>
   </table>

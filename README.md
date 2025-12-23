@@ -199,7 +199,35 @@
         </p>
         <p align="center"><em>Personal presentation website with HTML, CSS and JavaScript</em></p>
       </td>
-      <td></td>
+      <td>
+        <h3 align="center">🎯 Terminal Hangman Game</h3>
+        <div align="center">
+          <a href="https://github.com/SantinoCasado/UTNFRA_TP2_Ahorcado_WindowsForEver" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=SantinoCasado&repo=UTNFRA_TP2_Ahorcado_WindowsForEver&theme=radical&hide_border=true" alt="Hangman Game"/>
+          </a>
+        </div>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=windows-terminal&logoColor=white"/>
+        </p>
+        <p align="center"><em>Interactive hangman game played directly in the terminal</em></p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">👨‍💻 Interactive web site - Hardware / Software</h3>
+        <div align="center">
+          <a href="https://github.com/SantinoCasado/console.log-nota-4-Estamos-hasta-las-manos.TP" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=SantinoCasado&repo=Profile_HTML&theme=radical&hide_border=true" alt="Profile Website"/>
+          </a>
+        </div>
+        <p align="center">
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+        </p>
+        <p align="center"><em>Personal presentation website with HTML, CSS and JavaScript</em></p>
+      </td>
     </tr>
   </table>
 </div>

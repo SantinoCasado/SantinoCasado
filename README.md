@@ -1,4 +1,4 @@
-![MasterHead](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHYxaXg4ajNianA2eHRxbWI1ZzRpM21maTgyZjNjZ2Z6aXMxcHd5NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif)
+![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 
 <div align="center">
   <h1>Hello 👋, I'm Santino Casado</h1>
